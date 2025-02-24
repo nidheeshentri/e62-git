@@ -1,0 +1,10 @@
+.carousal-content-col div{
+    height: 300px;
+    overflow: auto;
+}
+
+.carousal-content-col img{
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
